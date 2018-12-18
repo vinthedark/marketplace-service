@@ -16,7 +16,7 @@ jobs:
       - run:
           name: Build the marketplace
           command: |
-              pip3 install -r requirements.txt -t .
+              pip3 install -r requirement.txt -t .
               sudo python3 -m compileall *.py
   post_build:
     docker:
