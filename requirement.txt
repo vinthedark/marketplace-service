@@ -20,6 +20,7 @@ Pillow==5.1.0
 protobuf==3.0.0
 pycrypto==2.6.1
 pymacaroons==0.13.0
+pymysql
 PyNaCl==1.1.2
 pyRFC3339==1.0
 python-debian==0.1.32
